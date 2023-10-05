@@ -4,8 +4,8 @@ This repository contains Python scripts for generating secure random tokens usin
 
 ## Requirements
 
-Python 3.x
-secrets
+- Python 3.x
+- secrets
 
 ## Usage
 
