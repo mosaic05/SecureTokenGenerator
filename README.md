@@ -11,7 +11,7 @@ This repository contains Python scripts for generating secure random tokens usin
 ## How to Run
 
 1. Clone this repository.
-2. Run `pip install -r requirements.txt`.
+2. Run `pip install secrets`.
 3. Run `SecureTokenGenerator.py`.
 
 ## Contributing
