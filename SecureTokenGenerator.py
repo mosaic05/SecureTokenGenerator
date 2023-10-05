@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 22 18:47:32 2023
 
-@author: khoso
-"""
 import secrets
 
 # Create 20 files with 5,000 tokens each
